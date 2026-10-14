@@ -1,5 +1,6 @@
 Text added by conflict1.
 # Assignment 0
+Text added by conflict2.
 **I really miss the dinning hall at UCLA**
 *How LinkedList worked when it combined with recursion*
 [IN-N-OUT](https://www.in-n-out.com/)
