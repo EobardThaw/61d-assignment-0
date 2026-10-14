@@ -1,1 +1,2 @@
 This line was changed by conflict2.
+This line was changed by conflict1.
