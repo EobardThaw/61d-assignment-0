@@ -1,3 +1,4 @@
+Text added by conflict1.
 # Assignment 0
 **I really miss the dinning hall at UCLA**
 *How LinkedList worked when it combined with recursion*

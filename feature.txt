@@ -1,1 +1,1 @@
-This is my new feature.
+This line was changed by conflict1.
